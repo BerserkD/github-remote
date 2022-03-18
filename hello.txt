@@ -23,6 +23,7 @@ ZZ自增
 3master test
 3hot-fix
 >>>>>>> hot-fix
+
 master mergehot fix 111
 merge master 1
 
@@ -33,6 +34,6 @@ remote write
 use ssh test
 use ssh test222
 
-
+use ssh push test
 
 
