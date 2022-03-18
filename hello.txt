@@ -20,11 +20,14 @@ ZZ自增
 2222222 second
 2222222 second
 2222222 second
-3master test2
+3master test
+3hot-fix
+>>>>>>> hot-fix
 master mergehot fix 111
 merge master 1
 
 
+hot fix merge test1
 
 
 
